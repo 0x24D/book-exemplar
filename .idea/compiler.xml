@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="bookexemplar.book-exemplar.integrationTest" target="1.8" />
+      <module name="bookexemplar.book-exemplar.main" target="1.8" />
+      <module name="bookexemplar.book-exemplar.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
